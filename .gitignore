@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+#api keys
+.env
+
 # dependencies
 /node_modules
 /.pnp
@@ -8,7 +11,8 @@
 # testing
 /coverage
 
-# production
+# production9246aa24-9fcc-479e-9468-6551d5af9263
+
 /build
 
 # misc
